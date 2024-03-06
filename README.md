@@ -15,4 +15,4 @@ Une fois le projet installé, vous pouvez l'exécuter en utilisant la commande s
 
 ## Contribution
 
-[CdePen](https://codepen.io/noirsociety/pen/ZEwLGXB)
+[CodePen](https://codepen.io/noirsociety/pen/ZEwLGXB)
