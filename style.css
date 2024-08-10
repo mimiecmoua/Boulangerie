@@ -21,6 +21,7 @@ body {
   flex-direction: column;
   overflow-x: hidden;
   font-family: "Raleway", sans-serif;
+  background-color: black;
 }
 
 main {
