@@ -21,7 +21,13 @@ L'effet de parallaxe est réalisé en JavaScript en déplaçant les éléments d
 
 Pour utiliser ce projet, suivez ces étapes :
 
-1. git clone https://github.com/mimiecmoua/boulangerie
+1. git clone https://github.com/mimiecmoua/Boulangerie
+
+## Auteur
+
+- **Émilie Clain - webOara** - Développeur principal
+
+[Votre GitHub](https://github.com/mimiecmoua) | [Votre Portfolio](https://mimiecmoua.github.io/portfolio/)
 
 ## Contribution
 
